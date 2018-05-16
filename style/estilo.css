@@ -1,0 +1,19 @@
+body {
+	background-color: #7f8c8d;
+}
+
+h1{ 
+text-align: center;
+font-family: Arial;
+ }
+
+
+p.copyright {
+	position: absolute;
+	width:  100%;
+	color: #112233;
+	line-height: 40px;
+	font-size: 0.7em;
+	text-align:  center;
+	bottom: 0;
+}
